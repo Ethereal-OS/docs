@@ -40,6 +40,11 @@ Stay tuned for more updates as we forge ahead, single-handedly pushing the bound
 
 [CENTER][IMG]https://raw.githubusercontent.com/Ethereal-OS/docs/main/Images/Features.png?raw=true[/IMG][/CENTER]
 
+STOCK AOSP
+OTA SUPPORT
+CUSTOM THEAMS
+LONGSHOT
+ADVANCE POWER MENU and MORE
 
 [CENTER][IMG]https://raw.githubusercontent.com/Ethereal-OS/docs/main/Images/Downloads.png?raw=true[/IMG][/CENTER]
 [CENTER][U][B][URL="https://sourceforge.net/projects/ethereal-os/files/"] Ethereal Builds [/URL][/U][/B][/CENTER]
