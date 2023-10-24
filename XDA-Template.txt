@@ -1,1 +1,91 @@
-Placeholder
+Title: [ROM][13.0] EtherealOS for <Device Name> [<devce_codename>][<Official or Unofficial>]
+
+[CENTER][IMG]https://raw.githubusercontent.com/Ethereal-OS/docs/main/Images/ETHEREAL.png?raw=true[/IMG][/CENTER]
+
+[CODE]
+
+>> Standard Disclaimer <<
+* I am not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed.
+* Please do some research if you have any concerns about features included in this ROM before flashing it!
+* YOU are choosing to make these modifications, and if you blame me in any way for what happens to your device, I will laugh at you.
+* BOOM! And Turn to Ashes...!!!
+
+[/CODE]
+
+[CENTER][IMG]https://raw.githubusercontent.com/Ethereal-OS/docs/main/Images/Ethereal_logo.png?raw=true[/IMG][/CENTER]
+
+[CENTER]
+
+[U][B]What's Ethereal OS[/B][/U]
+Ethereal OS: AOSPer's Delight. Experience the essence of AOSP source with Ethereal OS, a stock-inspired operating system that maintains the pure Android experience while introducing a touch of ethereal innovation.
+We have cherry-picked the features from many other open-source roms/projects and we are very thankful to all of them!
+I try to keep Ethereal as stable as possible, on an off chance you faced any issues with official builds, please let us know via our [URL="https://t.me/ETHEREAL_OS"] official telegram group [/URL] or XDA thread.
+
+[U][B]Team Ethereal[/U][/B]
+Welcome to the forefront of innovation, where a single visionary is crafting the future of computing. I am Sourabh Panchal, the driving force behind Ethereal OS, a project that embodies a one-person dedication to pushing the boundaries of custom stuff.
+
+Meet the Visionary:
+
+[MENTION=8741581]Sourabh Panchal[/MENTION] - [I]Lead Developer and Founder of Ethereal OS[/I]
+
+The Architect, A Noob Developer and Dreamer: I wear many hats in this endeavor. As the project's founder, I bring a relentless passion for technology, innovation, and a dream of crafting an OS that transcends today's limits. With a wide-ranging skill set, I take on the roles of architect, developer, and dreamer to bring this project to life.
+Though I stand alone, my commitment to this vision is unwavering. Every line of code, every design element, and every decision is a testament to my dedication to creating an OS that will redefine the way we interact with technology.
+
+Join me on this journey as we venture into uncharted territory, shaping the future of computing one keystroke at a time. As Ethereal evolves, I'll continue to share progress and updates with the wider tech community, inviting collaboration and insights as we move forward.
+
+Stay tuned for more updates as we forge ahead, single-handedly pushing the boundaries of what's possible.
+
+
+[/CENTER]
+
+[CENTER][IMG]https://raw.githubusercontent.com/Ethereal-OS/docs/main/Images/Features.png?raw=true[/IMG][/CENTER]
+
+
+[CENTER][IMG]https://raw.githubusercontent.com/Ethereal-OS/docs/main/Images/Downloads.png?raw=true[/IMG][/CENTER]
+[CENTER][U][B][URL="https://sourceforge.net/projects/ethereal-os/files/"] Ethereal Builds [/URL][/U][/B][/CENTER]
+[CENTER][U][B][URL="https://nikgapps.com/downloads"] GApps Package [/URL][/U][/B][/CENTER]
+
+[CENTER][IMG]https://raw.githubusercontent.com/Ethereal-OS/docs/main/Images/Instructions.png?raw=true[/IMG][/CENTER]
+
+First time installation:
+Download Rom, Gapps & Magisk (If you want ROOT)
+Reboot to recovery
+Format data (If Encrypted)
+Wipe system, vendor, cache, dalvik, data
+Flash Rom, Gapps & Magisk (optional)
+Flash DFE (if you don't want encryption)
+Flash latest firmware
+Reboot
+
+Update installation:
+Wipe system, vendor, cache, dalvik
+Flash Rom, Gapps & Magisk (optional)
+Reboot
+
+[B]NOTE:[/B][COLOR=red] If you fail to follow these instructions, please don't bother reporting any bugs. Also we do not
+support any Xposed or Magisk modules or any custom kernel so please keep in mind before reporting.[/COLOR]
+
+[CENTER][B][IMG]https://raw.githubusercontent.com/Ethereal-OS/docs/main/Images/Source.png?raw=true[/IMG][/CENTER]
+[CENTER][URL="https://github.com/Ethereal-OS"] Ethereal Source [/URL]
+[URL="<kernel source here>"] Device Sources [/URL]
+[URL="<kernel source here>"] Kernel Source [/URL][/B][/CENTER]
+
+[CENTER][IMG]https://raw.githubusercontent.com/Ethereal-OS/docs/main/Images/CreditsThanks.png?raw=true[/IMG][/CENTER]
+[CENTER]We would like to give thanks to everyone that contributes to the Android community, big or small because every bit counts. Although we can't list each and every contributor within the Android community, we would like to highlight some of the teams and individuals that have made it possible NOT only with just this version of ETHEREAL but throughout the years because we don't ever want to forget where we came from nor those that have helped us!
+That said, ETHEREAL team would like to thank to....
+[/CENTER]
+
+* LineageOS / Cyanogenmod
+* Pixel Experience
+* VoltageOS
+* AOSP
+* VoidUI
+
+
+**If we have left someone or some team, we apologize and please PM us. We would be very happy to include your name as well.**
+
+
+[CENTER][IMG]https://raw.githubusercontent.com/Ethereal-OS/docs/main/Images/Notes.png?raw=true[/IMG][/CENTER]
+
+
+<Your notes here, if u have any, like bugs, etc....>
