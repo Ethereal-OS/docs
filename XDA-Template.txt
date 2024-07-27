@@ -41,13 +41,15 @@ Stay tuned for more updates as we forge ahead, single-handedly pushing the bound
 [CENTER][IMG]https://raw.githubusercontent.com/Ethereal-OS/docs/main/Images/Features.png?raw=true[/IMG][/CENTER]
 
 STOCK AOSP
+LATEST SECURITY PATCH
 OTA SUPPORT
 CUSTOM THEAMS
 LONGSHOT
+PERFORMANCE
 ADVANCE POWER MENU and MORE
 
 [CENTER][IMG]https://raw.githubusercontent.com/Ethereal-OS/docs/main/Images/Downloads.png?raw=true[/IMG][/CENTER]
-[CENTER][U][B][URL="https://sourceforge.net/projects/ethereal-os/files/"] Ethereal Builds [/URL][/U][/B][/CENTER]
+[CENTER][U][B][URL="https://sourceforge.net/projects/ethereal-os/files/"] Ethereal Build [/URL][/U][/B][/CENTER]
 [CENTER][U][B][URL="https://nikgapps.com/downloads"] GApps Package [/URL][/U][/B][/CENTER]
 
 [CENTER][IMG]https://raw.githubusercontent.com/Ethereal-OS/docs/main/Images/Instructions.png?raw=true[/IMG][/CENTER]
@@ -63,8 +65,8 @@ Flash latest firmware
 Reboot
 
 Update installation:
-Wipe system, vendor, cache, dalvik
-Flash Rom, Gapps & Magisk (optional)
+If you have update zip : Go to Settings > Ethereal Updater > Load Local Updates > Install
+Else : Go to Settings > Ethereal Updater > Download Latest > Install
 Reboot
 
 [B]NOTE:[/B][COLOR=red] If you fail to follow these instructions, please don't bother reporting any bugs. Also we do not
@@ -72,23 +74,23 @@ support any Xposed or Magisk modules or any custom kernel so please keep in mind
 
 [CENTER][B][IMG]https://raw.githubusercontent.com/Ethereal-OS/docs/main/Images/Source.png?raw=true[/IMG][/CENTER]
 [CENTER][URL="https://github.com/Ethereal-OS"] Ethereal Source [/URL]
-[URL="<kernel source here>"] Device Sources [/URL]
+[URL="<Device source here>"] Device Sources [/URL]
 [URL="<kernel source here>"] Kernel Source [/URL][/B][/CENTER]
 
 [CENTER][IMG]https://raw.githubusercontent.com/Ethereal-OS/docs/main/Images/CreditsThanks.png?raw=true[/IMG][/CENTER]
 [CENTER]We would like to give thanks to everyone that contributes to the Android community, big or small because every bit counts. Although we can't list each and every contributor within the Android community, we would like to highlight some of the teams and individuals that have made it possible NOT only with just this version of ETHEREAL but throughout the years because we don't ever want to forget where we came from nor those that have helped us!
 That said, ETHEREAL team would like to thank to....
-[/CENTER]
+
 
 * LineageOS / Cyanogenmod
 * Pixel Experience
 * VoltageOS
 * AOSP
 * VoidUI
-
+* CrDroid
 
 **If we have left someone or some team, we apologize and please PM us. We would be very happy to include your name as well.**
-
+[/CENTER]
 
 [CENTER][IMG]https://raw.githubusercontent.com/Ethereal-OS/docs/main/Images/Notes.png?raw=true[/IMG][/CENTER]
 
